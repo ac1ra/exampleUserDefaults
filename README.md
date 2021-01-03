@@ -1,4 +1,4 @@
-# exampleUserDefaults
+# example UserDefaults
 Example on saving a custom class in UserDefaults
 
 Source code for saving a custom class with UserDefaults in Swift 5. Using Xcode 12.
